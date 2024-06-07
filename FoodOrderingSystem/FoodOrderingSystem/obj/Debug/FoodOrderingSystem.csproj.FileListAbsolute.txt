@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\FoodOrderingSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\FoodOrderingSystem.LoginFrame.resources
+C:\Users\Admin\source\repos\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\FoodOrderingSystem.Properties.Resources.resources
+C:\Users\Admin\source\repos\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\FoodOrderingSystem.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\FoodOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FoodOrderingSystem\FoodOrderingSystem\bin\Debug\FoodOrderingSystem.exe.config
+C:\Users\Admin\source\repos\FoodOrderingSystem\FoodOrderingSystem\bin\Debug\FoodOrderingSystem.exe
+C:\Users\Admin\source\repos\FoodOrderingSystem\FoodOrderingSystem\bin\Debug\FoodOrderingSystem.pdb
+C:\Users\Admin\source\repos\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\FoodOrderingSystem.exe
+C:\Users\Admin\source\repos\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\FoodOrderingSystem.pdb
+C:\Users\Admin\source\repos\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\FoodOrderingSystem.Home.resources
+C:\Users\Admin\source\repos\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\FoodOrderingSystem.SignupFrame.resources
+C:\Users\Admin\source\repos\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\FoodOrderingSystem.OderFrame.resources
+C:\Users\Admin\source\repos\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\FoodOrderingSystem.HistoryFrame.resources
